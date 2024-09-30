@@ -43,7 +43,7 @@ const IntroSection = () => {
           </p>
         </motion.div>
         <a
-          href="mailto:onesamket@gmail.con"
+          href="mailto:sifensolomon7488@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >

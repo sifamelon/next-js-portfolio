@@ -22,7 +22,7 @@ const SocialLinks = () => {
         </a>
         <a
           className="flex items-center justify-center p-1"
-          href="http://instagram.com/1_onesamket"
+          href="https://www.instagram.com/sifamelon?igsh=NDMweDIzbzU3YTYz"
           target="_blank"
           rel="noopener noreferrer"
         >

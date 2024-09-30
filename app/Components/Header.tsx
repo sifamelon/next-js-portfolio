@@ -80,7 +80,7 @@ export default function Header() {
         <div className="w-10 h-10 rounded-full flex items-center">
           <FaGithub
             className={`text-2xl cursor-pointer ${theme}==="dark"?'text-white':'text-black'`}
-            onClick={() => router.push("https://github.com/onesamket")}
+            onClick={() => router.push("https://github.com/sifamelon")}
           />
         </div>
         <NavbarItem>
