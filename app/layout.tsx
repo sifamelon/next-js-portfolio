@@ -23,9 +23,10 @@ export default function RootLayout({
         />
         <link
           rel="icon"
-          href="./public/profile.png"
+          href="https://avatars.githubusercontent.com/u/99482717?s…00&u=2fbe9b57ce3b7ad39523ce9434916cbcd53a51c1&v=4"
           type="image/png"
           sizes="32x32"
+          className="rounded-full"
         />
       </head>
       <body className="w-screen px-auto">
